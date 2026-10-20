@@ -14,5 +14,3 @@ What do you do?
 - 🙈 [Ignore it — probably just a glitch](./scene2B.md)
 
 - 🧓 [Tell your uncle — maybe he’ll know what to do](./scene2C.md)
-
-
