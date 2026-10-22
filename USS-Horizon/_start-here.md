@@ -13,3 +13,6 @@ As your shuttle approaches the airlock, the ship suddenly powers on its exterior
 Something aboard the Horizon is still active.
 
 - 🛸 [Begin your investigation](./scene1.md)
+
+<p align="center">
+<img src="./img/Spaceship.jpg" alt="Discovering another spaceship" width="600" height="350"/>
