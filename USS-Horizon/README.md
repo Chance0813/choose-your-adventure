@@ -56,7 +56,7 @@ USS-Horizon/
     ├── scene14.md
     ├── scene14A.md
     ├── scene15.md
-    ├── scene25.md          ← One of the endings
+    └── scene25.md          ← One of the endings
 ```
 
 ---
