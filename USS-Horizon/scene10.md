@@ -13,4 +13,4 @@ Something wet drips from the ceiling onto the console. When you look up, the cei
 
 - 🔬 [Examine the containment unit](./scene11.md)
 - 📂 [Search the remaining research files](./scene13.md)
-- 🚪 [Leave the lab before whatever did this comes back](./scene4.md)
+- 🚪 [Leave the lab before whatever did this comes back](./scene10A.md)
