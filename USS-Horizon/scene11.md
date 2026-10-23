@@ -13,4 +13,4 @@ The mass inside turns toward the glass.
 
 - 🧊 [Leave the unit sealed and back away](./scene14.md)
 - 🔓 [Override the lock and open it](./scene15.md)
-- 📡 [Try to contact your teammate one more time](./scene9.md)
+- 📡 [Try to contact your teammate one more time](./scene11A.md)
