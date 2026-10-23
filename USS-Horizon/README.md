@@ -55,16 +55,6 @@ USS-Horizon/
 │   └── SpaceBed.jpg
 └── README.md
 
-
----
-
-## Notes for Writers
-
-- Keep choices to **2–3 per scene**
-- Use relative links (`./scene5.md`)
-- Empty scenes (`scene3`, `scene6`, `scene7`, `scene8`, `scene12`, `scene13`) are reserved for the other writer
-- The “creature” in the lower decks is intentionally left mysterious for most of the story
-
 ---
 
 ## Credits
