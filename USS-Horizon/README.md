@@ -27,33 +27,37 @@ Your choices will decide what you uncover — and whether you make it back.
 ---
 
 ## File Structure
+
+```text
 USS-Horizon/
-├── _start-here.md          ← Start here
-├── scene1.md
-├── scene2.md
-├── scene2A.md
-├── scene2B.md
-├── scene2C.md
-├── scene4.md
-├── scene4A.md
-├── scene4B.md
-├── scene5.md
-├── scene5A.md
-├── scene5B.md
-├── scene5C.md
-├── scene9.md
-├── scene10.md
-├── scene10A.md
-├── scene11.md
-├── scene11A.md
-├── scene14.md
-├── scene14A.md
-├── scene15.md
-├── scene25.md              ← One of the endings
+├── README.md
 ├── img/
 │   ├── Spaceship.jpg
 │   └── SpaceBed.jpg
-└── README.md
+├── _start-here.md          ← Start here
+└── scenes/
+    ├── scene1.md
+    ├── scene2.md
+    ├── scene2A.md
+    ├── scene2B.md
+    ├── scene2C.md
+    ├── scene4.md
+    ├── scene4A.md
+    ├── scene4B.md
+    ├── scene5.md
+    ├── scene5A.md
+    ├── scene5B.md
+    ├── scene5C.md
+    ├── scene9.md
+    ├── scene10.md
+    ├── scene10A.md
+    ├── scene11.md
+    ├── scene11A.md
+    ├── scene14.md
+    ├── scene14A.md
+    ├── scene15.md
+    ├── scene25.md          ← One of the endings
+```
 
 ---
 
