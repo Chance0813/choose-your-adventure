@@ -7,7 +7,7 @@ Workbenches are overturned. Sample containers lie shattered across the floor. On
 
 On the main terminal a single log entry is still open:
 
-> “Subject is no longer responding to containment protocols. The signal is not external. It is using the ship.”
+> 🖥️ “Subject is no longer responding to containment protocols. The signal is not external. It is using the ship.”
 
 Something wet drips from the ceiling onto the console. When you look up, the ceiling panel is bent outward.
 
