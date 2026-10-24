@@ -1,4 +1,4 @@
-# The Last Signal
+# The Lost Signal
 
 A sci-fi mystery choose-your-own-adventure set aboard the abandoned research vessel **USS Horizon**.
 
