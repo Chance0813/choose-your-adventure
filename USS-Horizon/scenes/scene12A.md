@@ -9,4 +9,4 @@ Your eyes wander over to a card decorated with drawings of rainbows and stars on
 
 - ⌨️ [Try "password"](./scene12C.md)
 - ⌨️ [Try 3462836](./scene12A.md)
-- ⌨️ [Try 022072](./scene12B.md)
+- ⌨️ [Try 022722](./scene12B.md)
