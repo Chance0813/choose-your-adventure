@@ -7,7 +7,7 @@ You go to the control panel and start tapping commands into the main console.  Y
 
 You kept your focus on restoring the reactor and life support. As the consoles began to power on again, the computer to your left displayed the most recent log in a restored state. The last frame showed the horrified face of a young engineer. You tapped the screen to play it.
 
-> ⏯️ “It’s gotten out of the lab! We’re initializing lockdown in 30 seconds. Yes, sir!” The man looked up from the console and screamed.
+> ⏯️ “It’s gotten out of the lab! We’re initializing lockdown in 30 seconds. Yes, sir!” Then the man looked up from the console and screamed.
 
 The video ended, freezing at the last frame once again.
 
