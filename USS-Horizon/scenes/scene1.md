@@ -9,12 +9,10 @@ Your radio crackles.
 
 The message repeats, but you notice something strange: the ship's computer identifies you by name, even though you have never been aboard.
 
-Ahead, three routes lead deeper into the vessel. The command bridge is directly above you, the engineering section lies below, and a sealed laboratory sits at the end of the corridor.
+Ahead, three routes lead deeper into the vessel. The command bridge is directly above you, the engineering section lies below, and a laboratory sits at the end of the corridor.
 
 What do you do?
 
 - 🖥️ [Head to the command bridge to investigate the ship's logs](./scene2.md)
-
 - ⚙️ [Explore engineering to restore power and life support](./scene3.md)
-
-- 🧪 [Investigate the sealed laboratory](./scene4.md)
+- 🧪 [Investigate the laboratory](./scene10.md)

@@ -1,5 +1,5 @@
 
-# 🧪 Scene 10: The Sealed Laboratory
+# 🧪 Scene 10: The Laboratory
 
 The lab door is half-open, the seal broken from the inside.
 

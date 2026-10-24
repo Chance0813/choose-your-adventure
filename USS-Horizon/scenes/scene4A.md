@@ -1,5 +1,5 @@
 
-# 🏃 Scene 4B: Wet Prints
+# 🏃 Scene 4A: Wet Prints
 
 You round the corner and stop.
 

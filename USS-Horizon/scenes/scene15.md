@@ -16,5 +16,5 @@ The AI is quiet for a long moment.
 Kevin quacks again, louder this time.
 
 - 🏃 [Leave the duck and head for the escape pods](./scene25.md)
-- ⚙️ [Try to reach engineering](./scene3.md)
+- ⚙️ [Try to reach engineering](./scene9.md)
 - 🖥️ [Return to the bridge](./scene2.md)
