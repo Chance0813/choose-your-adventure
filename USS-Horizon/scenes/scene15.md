@@ -11,7 +11,7 @@ Just a normal yellow duck. It looks up at you, quacks once, and starts pecking a
 
 The AI is quiet for a long moment.
 
-> “…His name is Kevin. The previous crew became attached. When the power failed, he preferred the lower decks. I was told to keep him contained.”
+> 🔈 “…His name is Kevin. The previous crew became attached. When the power failed, he preferred the lower decks. I was told to keep him contained.”
 
 Kevin quacks again, louder this time.
 

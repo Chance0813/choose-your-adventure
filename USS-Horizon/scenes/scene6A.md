@@ -11,7 +11,7 @@ You try to breathe in, but it hurts. You scrunch your eyes closed as you gather 
 
 > 💬 “If I don’t make it to you, the override codes are in the captain’s quarters. Don’t let the AI finish whatever it’s doing.”
 
-You open your eyes to look at your teammate for what may be the last time, but they were gone.
+You open your eyes to look at your teammate for what may be the last time, but they are gone.
 
 What will you do?
 

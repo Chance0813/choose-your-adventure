@@ -1,4 +1,4 @@
-# The Last Signal
+# The Lost Signal
 
 ## Opening transmission
 

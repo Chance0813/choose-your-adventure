@@ -31,5 +31,5 @@ The dark figure inside the sealed containment unit is moving frantically now.
 
 What do you do?
 
--	🏃 [RUN](./scene25)
--	🔓 [Open the containment unit](./scene15A)
+-	🏃 [RUN](./scene25.md)
+-	🔓 [Open the containment unit](./scene15A.md)

@@ -6,7 +6,7 @@ Everything was covered in twisted wires and bits of soft white and yellow.
 
 Then something else catches your eye. The emergency lights illuminated the room just enough for you to make it out. On the far side of the room someone had taken a laser tool and burned something onto one of the walls:
 
-> ✏️ “022072”
+> ✏️ “022722”
 
 You try to contact your teammate on the radio, but you are interrupted by the sound of frantic footsteps.
 
