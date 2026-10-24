@@ -1,5 +1,5 @@
 
-# 🔑 Scene 12: Investigating the Captian's Quarters
+# 💻 Scene 12: Passcode
 
 You quickly escape and reach the Captain’s Quarters.
 
