@@ -5,5 +5,5 @@ You move towards the reactor. As you get closer, however, a shadowy figure runs 
 
 What do you do?
 
-- 💨 [Chase the entity] (./scene4A.md)
-- 🏃 [Run back up towards the corridor] (./scene4.md)
+- 💨 [Chase the entity](./scene4A.md)
+- 🏃 [Run back up towards the corridor](./scene4.md)
