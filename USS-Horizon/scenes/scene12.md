@@ -1,5 +1,5 @@
 
-Scene 12:
+# 🔑 Scene 12: Investigating the Captian's Quarters
 
 You quickly escape and reach the Captain’s Quarters.
 
