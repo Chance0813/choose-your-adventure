@@ -16,5 +16,4 @@ The radio crackles again, quieter this time.
 The line goes dead.
 
 - 🔦 [Move toward the reactor](./scene8.md)
-- 🏃 [Get out of engineering now](./scene4.md)
 - 🗝️ [Head for the captain’s quarters](./scene12.md)

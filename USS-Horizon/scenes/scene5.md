@@ -15,6 +15,6 @@ The signal drops.
 
 You’re alone again on the locked bridge.
 
-- ⚙️ [Try to reach engineering yourself](./scene9.md)
+- ⚙️ [Try to reach engineering yourself](./scene3.md)
 - 🔓 [Force the bridge doors](./scene4.md)
 - 🕳️ [Search for another way out of the bridge](./scene5A.md)
