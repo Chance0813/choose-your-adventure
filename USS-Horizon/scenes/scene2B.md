@@ -1,5 +1,5 @@
 
-# 🕳️ Scene 2C: The Vent
+# 🕳️ Scene 2B: The Vent
 
 You drop into a narrow maintenance vent. The air is colder here and smells faintly sweet, almost like wet feathers.
 
@@ -11,4 +11,3 @@ A soft *tap-tap-tap* echoes from deeper in the vent.
 
 - 🔦 [Follow the tapping sound](./scene6.md)
 - ↩️ [Climb back up to the bridge](./scene2.md)
-- 📡 [Try the radio again](./scene5.md)

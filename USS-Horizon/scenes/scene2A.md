@@ -12,5 +12,7 @@ The last line is cut off mid-sentence:
 A heavy thud hits the sealed bridge door. Whatever is outside is no longer just watching.
 
 - 🔓 [Force the bridge doors open](./scene4.md)
+
 - 📡 [Try to reach your teammate again](./scene5.md)
+
 - 🕳️ [Look for a maintenance hatch or vent](./scene2B.md)

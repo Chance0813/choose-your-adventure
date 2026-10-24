@@ -1,5 +1,5 @@
 
-# 🕳️ Scene 5C: Side Corridor
+# 🕳️ Scene 5A: Side Corridor
 
 You force a side panel open and step into a narrow service corridor. The floor is littered with tiny white fragments that look almost like… down?
 

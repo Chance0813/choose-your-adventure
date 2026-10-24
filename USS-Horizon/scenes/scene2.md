@@ -16,7 +16,5 @@ The bridge doors slam shut behind you. On a nearby monitor, a shadowy figure app
 What do you do?
 
 - 📂 [Download the captain's classified report before the system shuts down](./scene2A.md)
-
 - 🔓 [Attempt to override the locked bridge doors](./scene4.md)
-
 - 📡 [Find another way to contact your teammate through the ship's communications system](./scene5.md)
