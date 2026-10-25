@@ -15,4 +15,4 @@ Something aboard the Horizon is still active.
 - 🛸 [Begin your investigation](./scenes/scene1.md)
 
 <p align="center">
-<img src="./img/Spaceship.jpg" alt="Discovering another spaceship" width="600" height="350"/>
+<img src="./img/spaceship.jpg" alt="Discovering another spaceship" width="600" height="350"/>

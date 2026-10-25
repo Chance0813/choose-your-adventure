@@ -2,7 +2,7 @@
 # <p align="center"> 🚀 Escape Pods 🚀
 
 <p align="center">
-<img src="../img/SpaceBed.jpg" alt="Safe and Sound" width="700" height="438"/>
+<img src="../img/space-bed.jpg" alt="Safe and Sound" width="700" height="438"/>
 
 <br>
 
