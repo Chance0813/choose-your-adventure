@@ -11,6 +11,6 @@ Somewhere deeper in the station a door slams shut. The lights in the lab flicker
 
 You’re running out of safe places to stand.
 
-- 🏃 [Make a break for the escape pods](./scene25.md)
+- 🏃 [Make a break for the escape pods](./scene17.md)
 - ⚙️ [Discover what's behind a broken panel in the wall](./scene5A.md)
 - 🖥️ [Return to the bridge for the full logs](./scene2.md)

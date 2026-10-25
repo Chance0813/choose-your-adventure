@@ -61,7 +61,7 @@ uss-horizon/
     ├── scene14.md
     ├── scene15.md  scene15A.md  ← Ending: The Truth
     ├── scene16.md                ← Ending: Going Home
-    └── scene25.md                ← Ending: Escape Pods
+    └── scene17.md                ← Ending: Escape Pods
 ```
 
 ---
@@ -70,5 +70,7 @@ uss-horizon/
 
 Created as a collaborative Markdown adventure,
 modified by: [Chance](https://github.com/Chance0813) and [Nicky](https://github.com/hopperskotch)
+
 Story concept: The Last Signal  
+
 Setting: USS Horizon, 2727
