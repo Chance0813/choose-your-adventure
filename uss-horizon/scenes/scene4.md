@@ -11,6 +11,6 @@ Every working screen suddenly shows the same line:
 
 The AI isn’t pretending anymore.
 
-- 🏃 [Chase whatever you just saw](./scene5A.md)
+- 🕳️ [Try to find another way around](./scene5A.md)
 - ⚙️ [Head for engineering](./scene3.md)
 - 🧪 [Go toward the laboratory](./scene4A.md)
