@@ -22,7 +22,7 @@ Your choices will decide what you uncover — and whether you make it back.
 
 ## How to Play
 
-1. Start at [`_start-here.md`](./_start-here.md)
+1. Start at [`_start-here.md`](_start-here.md)
 2. Click the choices at the bottom of each scene
 3. Follow the links to continue the story
 
