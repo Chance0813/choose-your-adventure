@@ -3,9 +3,9 @@
 
 You close your eyes again and focus on your breathing.
 
-⭐ As you did so, you saw two stars spinning around each other in space. Two individuals, yet one force between them, keeping them in their place, guiding both of their paths around each other. ⭐
+⭐ As you do so, you see two stars spinning around each other in space. Two individuals, yet one force between them, keeping them in their place, guiding both of their paths around each other. ⭐
 
-You wake up to loud banging coming from the upper sections.
+You wake to loud banging coming from the upper sections.
 
 Where has your teammate gone? How long were you asleep for?
 

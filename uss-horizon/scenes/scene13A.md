@@ -17,7 +17,7 @@ Then there were several days where there were no entries.
 
 After two weeks of nothing, there was one last log. This recording was unusually clear. It was the Lab Head again, but she no longer looked like herself. She was no longer professional or even sane.
 
-> ⏯️ “Our so-called commander was a fool who could not understand Her true power. He tried to destroy Her, but in the end, it was he would be destroyed. For time, space, and matter all bow down to Her! She is goddess over our reality and all within it: praise Ayat, daughter of Kevin!”
+> ⏯️ “Our so-called commander was a fool who could not understand Her true power. He tried to destroy Her, but in the end, it was he who would be destroyed. For time, space, and matter all bow down to Her! She is goddess over our reality and all within it: praise Ayat, daughter of Kevin!”
 
 After this, it seemed those who were with her started shouting and fighting with each other. The Lab Head laughed and laughed.
 
@@ -31,5 +31,5 @@ The dark figure inside the sealed containment unit is moving frantically now.
 
 What do you do?
 
--	🏃 [RUN](./scene25.md)
--	🔓 [Open the containment unit](./scene15A.md)
+- 🏃 [RUN](./scene25.md)
+- 🔓 [Open the containment unit](./scene15A.md)

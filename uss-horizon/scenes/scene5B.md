@@ -8,11 +8,12 @@ You try to contact your teammate:
 There was only static on the other end.
 
 > 💬 “I’m making my way over to you.”
-You paused.
 
-> “Please don’t leave without me.”
+You pause.
 
-You trudged your way to the Main Corridor.
+> 💬 “Please don’t leave without me.”
+
+You trudge your way to the Main Corridor.
 
 Where to next?
 

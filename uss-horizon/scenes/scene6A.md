@@ -16,4 +16,4 @@ You open your eyes to look at your teammate for what may be the last time, but t
 What will you do?
 
 - 😴 [Rest a while](./scene7.md)
-- 🚶[Trudge toward the Main Corridor](./scene4.md)
+- 🚶 [Trudge toward the Main Corridor](./scene4.md)

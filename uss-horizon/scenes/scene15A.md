@@ -25,7 +25,7 @@ Kevin peeped softly as he waddled towards the intercom speaker.
 
   ![Black Hole in Space](../img/black-hole.png "Time Warp")
 
-Your shuttle docks with the USV Horizon, and you step through the airlock into a dark, silent corridor. Emergency lights flicker overhead, illuminating scattered equipment and strange scratches along the metal walls.
+Your shuttle docks with the USS Horizon, and you step through the airlock into a dark, silent corridor. Emergency lights flicker overhead, illuminating scattered equipment and strange scratches along the metal walls.
 
 Your radio crackles.
 

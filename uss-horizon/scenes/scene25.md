@@ -1,23 +1,23 @@
+<div align="center">
 
-# <p align="center"> 🚀 Escape Pods 🚀
+# 🚀 Escape Pods 🚀
 
-<p align="center">
-<img src="../img/space-bed.jpg" alt="Safe and Sound" width="700" height="438"/>
+<img src="../img/space-bed.jpg" alt="A warm, safe bed aboard your own ship" width="700" height="438"/>
 
-<br>
+You run down the hallway, desperately trying to find a way out.
 
-<p align="center"> You run down the hallway, desperately trying to find a way out.
+The AI blasts over the speakers in the hallways:
 
-<p align="center"> The AI blasts over speakers in the hallways
+> "Please return to your stations... Please return to your stations..."
 
-> <p align="center"> "Please return to your stations... Please return your stations..."
+🚀 You manage to find an escape pod, which you promptly enter and blast back towards your shuttle.
 
-<p align="center"> 🚀 You manage to find an escape pod which you promptly enter and blast back towards your shuttle.
+🛌 You board your own ship, where your bed is warm and there is nothing to be afraid of.
 
-<p align="center"> 🛌 You board your own ship where your bed is warm and there is nothing to be afraid of.
+🔏 You may never learn the secrets of the USS Horizon.
 
-<p align="center"> 🔏 You may never learn the secrets of the USS Horizon
+---
 
---- 
+## THE END
 
-## <p align="center"> __THE END__
+</div>
