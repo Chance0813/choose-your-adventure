@@ -13,3 +13,4 @@ You have no idea what this code could be.
 
 - 🔍 [Return to Main Corridor to search for clues](./scene4.md)
 - ⌨️ [Try "password"](./scene13B.md)
+- ⌨️ [Try 022722](./scene13A.md)
