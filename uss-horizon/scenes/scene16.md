@@ -13,6 +13,8 @@ Aboard your shuttle, you set course for the unexplored planet. Through the viewp
 
 Kevin quacks once, gently, and settles into your lap. For the first time in twenty years, the signal falls silent.
 
+
+
 ![Homebound Duck](../img/hobo_duck.png)
 
 ---
